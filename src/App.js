@@ -11,7 +11,7 @@ class App extends Component {
             <svg>
                 <use xlinkHref={`${logo}#test`}/>
             </svg>
-          <h1 className="App-title">Welcome to React</h1>
+          <h1 className="App-title">Welcome to React test</h1>
         </header>
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
